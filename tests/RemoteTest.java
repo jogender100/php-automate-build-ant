@@ -34,7 +34,7 @@ DesiredCapabilities capabilities = new DesiredCapabilities();
  WebDriver driver = new RemoteWebDriver(server, capabilities);
 
  
-driver.get("http://13.71.6.20/");
+driver.get("http://52.172.141.15/");
 
 
 Thread.sleep(1000);
